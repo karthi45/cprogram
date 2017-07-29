@@ -2,7 +2,6 @@
 int main()
 {
 int num;
-printf("enter the value of num");
 scanf("%d",&num);
 if (num<0)
 printf("ENTERED VALUE IS NEGATIVE");
